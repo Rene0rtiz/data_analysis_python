@@ -1,4 +1,4 @@
-#!/home/hzrd/Code/github/data_analysis_python/.venv/bin/python3
+#!/home/hzrd/Code/github/data_analysis_python/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
